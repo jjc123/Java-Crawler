@@ -1,5 +1,9 @@
 # Java-Crawler
 JAVA爬虫 并发爬取静态小说网站的全部小说
+小说网站：
+```
+https://www.bookbao8.com/BookList-c_0-t_2-o_1.html
+```
 
 效果展示 
 ```
